@@ -1,0 +1,12 @@
+{
+  "name": "simple-api-expressjs-writing",
+  "version": "1.0.0",
+  "description": "Simple RESTful APIs with ExpressJS and Sequeilize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Angga Eriansyah Setiawan",
+  "license": "ISC"
+}
